@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zykfwdm
+- 👀 I’m interested in Medcine and NLP AI intergreted
+- 🌱 I’m currently learning to write script with Python
+- 💞️ I’m looking to collaborate on EEG decoding closed-loop neural regulation and brain computer interface
+- 📫 How to reach me ：jhwdm@hotmail.com
